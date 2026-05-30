@@ -1,2 +1,2 @@
 # HYPE
-Hype short 66.920
+Hype open short 66.920
